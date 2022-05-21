@@ -111,9 +111,9 @@ const Home = () => {
                   </button>
                 </div>
               </div>
-              <div className="col_1">
+              <div className="col_1">hub
                 <h4>About</h4>
-                <a href="cv.pdf" download={true}>
+                <a href=".public/cv.pdf" download={true}>
                   <button className="btn_shadow">Download CV</button>
                   
                 </a>
