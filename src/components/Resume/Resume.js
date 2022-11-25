@@ -36,7 +36,7 @@ const Resume = () => {
               <a href="https://github.com/saileshadh">
                 <button className='btn_shadow'>
               
-              Number of Projects:  13+
+              Number of Projects:  12+
             </button></a>
             <hr></hr>
             <div className="btn_shadow">
